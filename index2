@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <html>
+ <script>document.createElement("myHero")</script>
+  <style>
+  myHero {
+      display: block;
+      background-color: #dddddd;
+      padding: 50px;
+      font-size: 30px;
+  } 
+  </style> 
 <body>
 
 <h1>My First Heading</h1>
